@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**marcelabrenes/marcelabrenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Marcela and my favorite thing to do is learning  👩‍💻 
 
-Here are some ideas to get you started:
+- 🖥 I'm currently learning JavaScript and other Front End technologies
+- 🕵️‍♀️ Criminal Sciences and Art enthusiast
+- 🎨 Graphic Design and Advertising student
+- 📫 How to reach me: 
+    * My LinkedIn Profile: [Marcela Brenes](https://www.google.com)
+- ⚡ Fun fact: Just graduated from a Full Stack Development Bootcamp!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can checkout some of the projects I did there 👇🏼
+

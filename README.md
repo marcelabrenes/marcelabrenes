@@ -7,7 +7,7 @@
 - 🎨 Graphic Design and Advertising student
 - 📫 How to reach me: 
     * My LinkedIn Profile: [Marcela Brenes](https://www.linkedin.com/in/marcela-brenes/)
-- ⚡ Fun fact: Just graduated from a Full Stack Development Bootcamp!
+- ⚡ Fun fact: Just switched jobs!
 
 You can checkout some of the projects I did there 👇🏼
 
